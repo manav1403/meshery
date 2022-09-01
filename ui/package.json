@@ -85,7 +85,7 @@
     "react-lazyload": "^3.2.0",
     "react-moment": "^1.1.1",
     "react-redux": "^7.2.5",
-    "react-relay": "^11.0.0",
+    "react-relay": "^14.1.0",
     "react-runtime": "^1.1.0",
     "react-select": "^2.4.3",
     "react-slick": "^0.28.1",
@@ -102,7 +102,7 @@
   "devDependencies": {
     "@babel/traverse": "^7.16.0",
     "@babel/types": "^7.16.0",
-    "@types/react-relay": "^11.0.2",
+    "@types/react-relay": "^14.1.1",
     "babel-eslint": "^10.1.0",
     "cypress": "^9.2.0",
     "eslint": "^7.31.0",
